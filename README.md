@@ -24,9 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo"  />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ytkaskd&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" />
-</div>
+
 
 ###
 
@@ -35,6 +33,12 @@
   <a href="https://t.me/immortalusername" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="43" alt="telegram logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ytkaskd&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" />
 </div>
 
 ###
