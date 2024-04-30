@@ -10,8 +10,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXBxOWQxdGJoMDEybmdlYTZ2dWZ1M21mbjlkNzFpdDlreDR5MGlyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlvokmLF33HWqwo/giphy.gif"  />
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="50" alt="go logo"  />
   <img width="17" />
@@ -43,6 +41,5 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ytkaskd&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" />
-</div>
+<img align="center" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXBxOWQxdGJoMDEybmdlYTZ2dWZ1M21mbjlkNzFpdDlreDR5MGlyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlvokmLF33HWqwo/giphy.gif"  />
+<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/CVQ7P6tonQSZN2pPgc/video" width="480"></iframe></div>
