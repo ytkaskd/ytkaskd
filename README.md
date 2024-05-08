@@ -1,5 +1,5 @@
 <div align="center">
-    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixel&size=12&duration=4200&pause=700&color=3C7E00&background=000000&center=true&vCenter=true&random=false&width=300&lines=Hi%2C+i'm+ytkaskd;and+i'm+low-level+designer+from+Russia%F0%9F%87%B7%F0%9F%87%BA)](https://git.io/typing-svg)
+    ![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixel&size=12&duration=4200&pause=700&color=3C7E00&background=000000&center=true&vCenter=true&random=false&width=300&lines=Hi%2C+i'm+ytkaskd;and+i'm+low-level+designer+from+Russia%F0%9F%87%B7%F0%9F%87%BA)](https://git.io/typing-svg)
 </div>
 
 ###
