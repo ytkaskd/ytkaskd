@@ -1,4 +1,7 @@
-<h2 align="center">Hi 👋! My name is ytkaskd and <br>I'm a low-level programmer, from Russia🇷🇺</h2>
+<div align="center">
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&weight=700&size=100&duration=5003&pause=1010&center=true&random=false&width=1500&height=220&lines=Hi%2C+I'm+ytkaskd;lowlevel+designer+from+Russia)](https://git.io/typing-svg)
+</div>
 
 ###
 
