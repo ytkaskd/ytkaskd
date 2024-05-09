@@ -1,5 +1,6 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixel&size=12&duration=4200&pause=700&color=3C7E00&background=000000&center=true&vCenter=true&random=false&width=300&lines=Hi%2C+i'm+ytkaskd;and+i'm+low-level+designer+from+Russia%F0%9F%87%B7%F0%9F%87%BA" alt="Typing SVG" /></a>
+### Hi, im ytkaskd
+## and i'm low-level developer from Russia🇷🇺
 </div>
 
 ###
@@ -28,8 +29,6 @@
   <img width="17" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo"  />
 </div>
-
-
 
 ###
 
