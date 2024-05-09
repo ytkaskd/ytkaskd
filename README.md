@@ -1,6 +1,7 @@
-
-<h1 align="center"> Hi, i'm ytkaskd, </h1>
-<h2 align="center"> and i'm low-level developer from Russia🇷🇺 </h2>
+<div align="center">
+Hi, i'm ytkaskd🦆
+and i'm low-level designer from Russia🇷🇺
+</div>
 
 ###
 
