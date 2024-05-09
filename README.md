@@ -1,5 +1,6 @@
 
-<h1 align="center"> Hi, im ytkaskd, and i'm low-level developer from Russia🇷🇺 </h1>
+<h1 align="center"> Hi, i'm ytkaskd, </h1>
+<h2 align="center"> and i'm low-level developer from Russia🇷🇺 </h2>
 
 ###
 
