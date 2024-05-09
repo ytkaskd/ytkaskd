@@ -1,7 +1,6 @@
-<div align="center">
- ###Hi, im ytkaskd
- ##and i'm low-level developer from Russia🇷🇺
-</div>
+
+###Hi, im ytkaskd
+##and i'm low-level developer from Russia🇷🇺
 
 ###
 
