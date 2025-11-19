@@ -1,6 +1,7 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Special+Elite&display=swap" rel="stylesheet">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+  sss
+</style>
 <div align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNu98lOLmVAQ0fF0XRmFVqM81knj3D5Ea2Hw&s" height="80" alt="sXe"  />
   <img width="17" />
